@@ -1,2 +1,4 @@
 hello.xml
+*.log
+log/
 
